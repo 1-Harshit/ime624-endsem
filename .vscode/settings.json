@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "pgOptions": {
+                "ssl": true
+            },
+            "previewLimit": 50,
+            "server": "dpg-clf1vq7jc5ks7393g5t0-a.oregon-postgres.render.com",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "IME",
+            "database": "agriloan",
+            "username": "ime624",
+            "password": "5nGsS3b62OHxXU2hFe3YdN2JWSO4GHz7"
+        }
+    ]
+}
